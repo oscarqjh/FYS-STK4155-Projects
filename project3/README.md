@@ -10,19 +10,19 @@ The project evaluates several machine learning models on image classification ta
 ## Repository Structure
 
 ```
-| - models
-|    |- cnn_rnn_model.keras       # Pretrained CNN-RNN model file
-|    |- ffnn_model.keras          # Pretrained FFNN model file
-|    |- rnn_model.keras           # Pretrained RNN model file
-|    |- vggcnn_model.keras        # Pretrained VGG-based CNN model file
-|
-| - cnn.py                        # Code for Convolutional Neural Network (CNN) implementation
-| - optimisers.py                 # Optimizers and utility functions for training
-| - svm.py                        # Code for Support Vector Machine (SVM) implementation
-| - utils.py                      # General utility functions for data preprocessing and evaluation
-| - Project3.ipynb                # Jupyter Notebook for the project's main analysis and experiments
-| - Project3_Oscar_Qian.pdf       # Final report summarizing findings and methodology
-| - requirements.txt              # Python dependencies required for the project
+├── models
+│   ├── cnn_rnn_model.keras       # Pretrained CNN-RNN model file
+│   ├── ffnn_model.keras          # Pretrained FFNN model file
+│   ├── rnn_model.keras           # Pretrained RNN model file
+│   ├── vggcnn_model.keras        # Pretrained VGG-based CNN model file
+│
+├── cnn.py                        # Code for Convolutional Neural Network (CNN) implementation
+├── optimisers.py                 # Optimizers and utility functions for training
+├── svm.py                        # Code for Support Vector Machine (SVM) implementation
+├── utils.py                      # General utility functions for data preprocessing and evaluation
+├── Project3.ipynb                # Jupyter Notebook for the project's main analysis and experiments
+├── Project3_Oscar_Qian.pdf       # Final report summarizing findings and methodology
+├── requirements.txt              # Python dependencies required for the project
 ```
 
 ## Requirements
